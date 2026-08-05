@@ -1,3 +1,9 @@
-# CartoonizeAI
+# Cartoonize AI
 
-Converting any type of real-time taken or uploaded image/video to a Cartoonized Picture with Natural Colors. I used OpenCV, OpenAI and White-Box Cartoonization. 
+Turns a photo or video frame into a cartoon-style image, using OpenCV for image processing and White-Box Cartoonization for the stylization itself.
+
+Small computer-vision experiment — feed it an image, get a cartoonized version back with the color and edge structure preserved.
+
+## Stack
+
+Python, OpenCV, White-Box Cartoonization
